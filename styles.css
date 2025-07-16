@@ -748,6 +748,7 @@ a{
     .call-btn{
       font-size: 1.35rem;
       line-height: 1.75rem;
+      height:3rem;
     }
     .tap-direction{
       font-size: 1.1rem;
